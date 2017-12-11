@@ -11,7 +11,12 @@ var contactList = [
 
 /*------------------------PROTOTYPES------------------------*/
 
-//Contact class
+/**
+* Prototype that allows user to create a new contact with a 
+* firstname and a lastname then permits user to add it to 
+* a list
+* @type {Object}
+*/
 var Contact = {
 
     /**
@@ -42,8 +47,8 @@ var Contact = {
 
 
   /**
-   * Prototype who allow us to add new array in the array contactList and
-   * to print its contents
+   * Prototype which allows us to add new array in the array contactList and
+   * to print its contents to the screen
    * @type {Object}
    */
 var List = {
