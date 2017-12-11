@@ -56,8 +56,7 @@ var List = {
         contactList.push(contactToAdd);
     },
 
-    /*METHODE: Elle permet d'print tous les éléments du tableau "contactList" sous forme de chaine de caractère*/
-    /**
+     /**
      * To print on screen each elements of each array in contactList
      */
     print: function() {
@@ -96,7 +95,6 @@ var ContactManager = {
         return choice;
     },
 
-    /*METHODE: Elle contient l'alogorithme correspondant au comportement attendu du programme*/
     /**
      * Containing the main algorithmn of the contact manager
      * @this {ContactManager}
@@ -109,9 +107,7 @@ var ContactManager = {
          */
         var newList = Object.create(List);
 
-        /*On fait appel à une méthode interne au prototype (utilisation de "this")
-        pour demander une entrée utilisateur et la stocker dans la variable choice*/
-        /**
+         /**
          * Stocking user's choice in the variable choice
          * @type {int}
          */
