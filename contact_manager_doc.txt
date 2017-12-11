@@ -1,5 +1,15 @@
+INSTRUCTIONS PART 1
+
 Thanks for all to read my work.
 
-To use this simple program, you just have to put the main folder "contact_manager" 
-in your xAmp or Wamp folder corresponding to your localhost 
+To use this simple program, you just have to put the main folder "contact_manager"
+in your xAmp or Wamp folder corresponding to your localhost
 (I use UwAmp, so my localhost's folder is "www").
+
+
+INSTRUCTIONS PART 2
+
+Once its done, open your browser and go to this page (if you are new to
+coding) : localhost/contact_manager/html/contacts.html
+
+You will have a simple page with a popup coming up.
